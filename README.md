@@ -10,7 +10,7 @@
         width="300" alt="Igor Kroeber's Dev Card"/>
 </a>
 
-- 🔭 I’m currently working on **a stock management system**
+- 🔭 I’m currently working on **a stock management system and a reporting engine**
 
 - 🌱 I’m currently studying **CQRS and mediator pattern applied to domain-driven design**
 
