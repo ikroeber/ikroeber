@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **a stock management system and a reporting engine**
+- 🔭 I’m currently working on **a reporting engine**
 
 - 🌱 I’m currently studying **CQRS and mediator pattern applied to domain-driven design**
 
