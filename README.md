@@ -6,12 +6,8 @@ From the start of my career until now, I've been studying lots of technologies a
 
 I'm open to talk about new open-source projects or just to have a friendly chat while taking a nice cup of coffee!
 
-</br>
-
 - #### 💼 Open for new Job Positions!
 - #### 🔭 Currently working on an open-source agile project management app
-
-</br>
 
 ## Programming Languages
 ![Languages](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=csharp%2Ctypescript%2Cjavascript%2Cphp%2Cpython%2Cruby%2Cc%2Ccplusplus&preset=october-silenceiver&shadow=false&width=70)
