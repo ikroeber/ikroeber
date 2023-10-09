@@ -1,7 +1,7 @@
 # Hello there! 🫡 I'm Igor Kroeber.
 ## A Software Engineer from Brazil.
 
-I'm always open to talk about new and ongoing projects or just to have a friendly chat while taking a nice cup of coffee!
+I'm always open to talk about new or ongoing projects or just to have a friendly chat while taking a nice cup of coffee!
 
 - #### 💼 Open for new Job Positions!
 - #### 🔭 Currently working on an open-source agile project management app
